@@ -47,11 +47,10 @@ Repeat that pattern from whichever project directory you want to explore. Some f
 - The code is preserved as a portfolio/archive of individual assignments.
 - The repository is useful as a reference for the progression of C++ problem solving across multiple topics instead of as a single application.
 
-## Skills Demonstrated
+## Key Skills Gained
 
-- C++
-- CMake
-- Data structures
-- Algorithm implementation
-- API design around assignment constraints
-- Problem-focused modular code organization
+- Writing reusable C++ code around classes, templates, and clean interfaces
+- Implementing core data structures and algorithms in project-oriented settings
+- Organizing independent projects with CMake-based build flows
+- Solving visual and traversal-heavy problems through modular abstractions
+- Strengthening object-oriented design and codebase navigation skills
